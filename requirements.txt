@@ -4,4 +4,8 @@ datetime
 matplotlib
 joblib
 seaborn
+plotly.express
+scikit-learn
+numpy
+joblib
 scikit-learn==1.2.2
